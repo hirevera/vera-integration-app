@@ -1,6 +1,6 @@
 # Integration.app Workspace Import/Export Tool
 
-This CLI tool allows you to export and import data from Integration.app Workspaces, facilitating easier management and migration of workspace configurations.
+> ⚠️ **DEPRECATED**: This tool has been deprecated. Please use the official [Membrane CLI](https://www.npmjs.com/package/@integration-app/membrane-cli) instead, which provides enhanced functionality and better support for workspace management.
 
 ## Features
 
